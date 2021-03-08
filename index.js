@@ -8,7 +8,7 @@ function myFunction(projects) {
 		window.open("https://github.com/gmkumar1988/covid19vaccinationprogress/blob/main/country_vaccine_kaggle.R");
 	break;
 	case 3:
-		window.open("https://github.com/gmkumar1988/Restaurant-Sales-View2020/blob/main/restaurant_sales_2020.R");
+		window.open("https://github.com/gmkumar1988/Cluster-Analysis/blob/main/kmeans_cluster_college.R");
 	break;
 	case 4:
 		window.open("https://github.com/gmkumar1988/tweetwordcloud/blob/main/text_mining_tweets.R");
