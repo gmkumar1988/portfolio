@@ -23,19 +23,20 @@ function myFunction(projects) {
   } 
 
 
-  function sendMail(params)
-  {
-	
-	  var tempParams = {
-		  from_name: document.getElementById("name_id").value,
-		  from_mail: document.getElementById("email_id").value,
-		  message: document.getElementById("message_complete").value
+//   function sendMail(params)
+//   {
+// 	alert("Thank you!");
+// 	console.log('tet');
+// 	  var tempParams = {
+// 		  from_name: document.getElementById("name_id").value,
+// 		  from_mail: document.getElementById("email_id").value,
+// 		  message: document.getElementById("message_complete").value
 
-	  };
+// 	  };
 
-	  emailjs.send('gmail','template_cniy5si',tempParams).then(function(res){
-		  alert("Thank you!");
-	  })
-  }
+// 	  emailjs.send('gmail','template_cniy5si',tempParams).then(function(res){
+// 		  alert("Thank you!");
+// 	  })
+//   }
 
  
